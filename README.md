@@ -1,33 +1,4 @@
-<style>
-table {
-  padding: 0; }
-  table tr {
-    border-top: 1px solid #cccccc;
-    background-color: white;
-    margin: 0;
-    padding: 0; }
-    table tr:nth-child(2n) {
-      background-color: #f8f8f8; }
-    table tr th {
-      font-weight: bold;
-      border: 1px solid #cccccc;
-      text-align: left;
-      margin: 0;
-      padding: 6px 13px; }
-    table tr td {
-      border: 1px solid #cccccc;
-      text-align: left;
-      margin: 0;
-      padding: 6px 13px; }
-    table tr th :first-child, table tr td :first-child {
-      margin-top: 0; }
-    table tr th :last-child, table tr td :last-child {
-      margin-bottom: 0; }
 
-.tablelines table, .tablelines td, .tablelines th {
-        border: 1px solid black;
-        }
-</style>
 # Kehadiran
 
 |  NRP     |  Nama      |30.7|6.8|13.8|20.8|27.8|4.9|11.9|18.9|25.9|1.10|8.10|15.10|22.10|29.10|6.11|13.11| 
@@ -65,7 +36,6 @@ table {
 |5115100703|Nirmala     | | | | | | | | | | | | | | | | | 
 |5115100704|Mukramin    | | | | | | | | | | | | | | | | | 
 |5115100706|Yuga Mitra H| | | | | | | | | | | | | | | | | 
-{: .tablelines}
 
 # Keaktifan
 
